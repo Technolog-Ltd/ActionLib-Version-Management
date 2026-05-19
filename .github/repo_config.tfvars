@@ -51,5 +51,5 @@ environments = {
 }
 
 import_resources = {
-  repository = "ActionLibrary-Version-Management"
+  repository = "ActionLib-Version-Management"
 }
